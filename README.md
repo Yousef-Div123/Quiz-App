@@ -1,4 +1,4 @@
-#Quiz App
+# Quiz App
 
 We can devide the functionality of this program into three parts: 
 - read questions from the file
