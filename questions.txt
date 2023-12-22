@@ -1,0 +1,810 @@
+_______ is the smallest unit of data in a computer ?
+Gigabyte
+Bit
+Byte
+Terabyte
+Bit
+Which of the following is NOT an anti-virus software ?
+Avast
+Linux
+Norton
+Kaspersky
+Linux
+In the context of digital computer, which of the following pairs of digits is referred to as binary code ?
+3 and 4
+0 and 1
+2 and 3
+1 and 2
+0 and 1
+Which unit of the computer is considered as the brain of the computer ?
+Memory unit
+Input unit
+CPU
+Output unit
+CPU
+What is the full form of PROM ?
+Program read-only memory
+Primary read-only memory
+Programmable read-only memory
+Program read-output memory
+Programmable read-only memory
+In the context of computing, what is the full form of URL ?
+Undistributed Resource Locator
+Unified Resource Locator
+Uniform Resource Locator
+Uniform Region Locator
+Uniform Resource Locator
+Which of the following is an input device used to enter motion data in computers or other electronic devices ?
+Monitor
+Trackball
+Plotter
+Joystick
+Trackball
+In the context of computing, a byte is equal to _____ bits ?
+4
+16
+24
+8
+8
+_____ is a small, portable flash memory card that plugs into a computer’s USB port and functions as a portable hard drive ?
+Flash drive
+CD-RW
+DVD-ROM
+CD-ROM
+Flash drive
+Which of the following devices is NOT used to enter data into a computer ?
+Mouse
+Keyboard
+Scanner
+Monitor
+Monitor
+Which of the following is an input device of a computer ?
+Speaker
+Printer
+Scanner
+Monitor
+Scanner
+Transistors belong to which of the following generation of the computers ?
+First
+Second
+Third
+Fourth
+Second
+Trackball is which of the following devices ?
+Input device
+Touchpad
+Output device
+Barcode reader
+Input device
+Which type of computers is used to control air traffic and radar of national defence ?
+Personal computers
+Analogue computers
+Hybrid computers
+Digital computers
+Hybrid computers
+How many function keys are present on a standard PC keyboard ?
+10
+9
+12
+15
+12
+A computer on the Internet that uses HTTP protocol is known as: ?
+LAN
+Web Server
+WAP
+WLAN
+Web Server
+Third generation computers used: ?
+vacuum tubes
+integrated circuits
+Transistors
+VLSI technique
+integrated circuits
+What is the shortcut key for the central alignment of a line or text in MS Office software ?
+Ctrl+E
+Ctrl+C
+Ctrl+G
+Ctrl+A
+Ctrl+E
+___ is the central server in computer network which lets the concerned user utilise the storage capacity of the server ?
+Application Server
+File Server
+Print Server
+Web Server
+File Server
+Which of the following is NOT a portable device ?
+iPods
+Laptops
+Desktop computers
+Thumb drives
+Desktop computers
+_____ is the fastest to read from and write to than the other kinds of storage in a computer. ?
+CD-ROM
+Floppy disk
+RAM
+Hard disk
+RAM
+_____ is a diagrammatic representation of a program logic. ?
+Process
+Flowchart
+Data
+Legend
+Flowchart
+In the field of computing, what does ENIAC stand for ?
+Electronic Numerical Integrator and Computer
+Electronic Numerical Integrated Advanced Computer
+Electronic Numerals Integration and Computing
+Electronic Numbers Integration and Computer
+Electronic Numerical Integrator and Computer
+The speed of the Central Processing Unit (CPU) is measured in_________, which represents a CPU cycle ?
+Gigabyte (GB)
+Hertz (Hz)
+Terabyte (TB)
+Kilobyte (KB)
+Hertz (Hz)
+Which of the following is an input device that utilises a light-sensitive detector to select objects on a display screen ?
+Light pen
+Bar code reader
+Optical mark recognition (OMR)
+Magnetic ink character recognition (MICR)
+Light pen
+'Nibble' in computer terminology is also called ________ ?
+Bit
+Half bit
+Half byte
+Byte
+Half byte
+Which company manufactured the first microprocessor 4004 ?
+ENOcean Private Company
+NVIDIA Corporation
+PLX Devices
+INTEL Corporation
+INTEL Corporation
+In the field of information and communication technology, what is the full form of FDD ?
+Folder Disk Drive
+Floppy Disk Drive
+Folder Data Drive
+Floppy Data Drive
+Floppy Disk Drive
+What is ' Roadeo' ?
+A robot that cleans city roads
+A robot that fills potholes
+A robot that drives taxis
+A robot that helps maintain traffic
+A robot that helps maintain traffic
+Who designed the first analog computer in India ?
+Samarendra Kumar Mitra
+Deb Kumar Bose
+Subodh Chandra Das Gupta
+Bimal Kumar Bhattacharyya
+Samarendra Kumar Mitra
+Desktop Computers, Laptop Computers, tablets and smartphones are different types of _______ ?
+Supercomputers
+Mainframe Computers
+Microcomputers
+Minicomputers
+Microcomputers
+Who among the following pioneered Binary Logic and Arithmetic in Computers Programming ?
+Noam Chomsky
+Leslie Lamport
+John Backus
+Claude Shannon
+Claude Shannon
+Second Generation computers can be characterized largely by their use of : ?
+Integrated Circuits
+Vacuum Tubes
+Microprocessors
+Transistors
+Transistors
+AIX is the operating system of which company ?
+Apple
+Unisys
+IBM
+Microsoft
+IBM
+In computer terminology, what is the full form of RAM ?
+Random Access Memory
+Repeated Access Memory
+Rapid Access Memory
+Regular Access Memory
+Random Access Memory
+In computing, _______ is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. ?
+cookie
+spyware
+spam
+firewall
+firewall
+Which of the following is a supercomputer developed by India ?
+Param Yuva 2
+Onshape
+Venngage
+Pixir
+Param Yuva 2
+A database used by Microsoft Windows for storing configuration information is known as: ?
+Registry
+Record
+Cookie
+Cache
+Registry
+Who among the following invented the World Wide Web (www) in 1989 ?
+Bill Gates
+Steve Wozniak
+Tim Berners-Lee
+Charles Babbage
+Tim Berners-Lee
+In the context of digital computer, which of the following pairs of digits is referred to as binary code ?
+3 and 4
+0 and 1
+2 and 3
+1 and 2
+0 and 1
+‘Pivot Table’ is a feature of which of the following softwares ?
+Microsoft Excel
+Microsoft Word
+Microsoft Access
+Microsoft Powerpoint
+Microsoft Excel
+In which year was Google incorporated as a private company ?
+2000
+2005
+2002
+1998
+1998
+Which of the following is NOT one of the tools of Robotics Process ?
+Blue Prism
+Ui Path
+Automation Anywhere
+Power Center
+Power Center
+Which shortcut key is used for previewing the page before printing? ?
+CTRL + F6
+CTRL + F10
+CTRL + F2
+CTRL + F5
+CTRL + F2
+Which of the following is NOT an e-commerce website ?
+Uber
+Swiggy
+Flipkart
+Google Maps
+Google Maps
+Python is a ______ ?
+high level language
+assembly language
+low level language
+machine language
+high level language
+Linux is _____ ?
+an interpreter
+an operating system
+an assembly language
+a high level language
+an operating system
+In the context of memory size in computer data storage, one gigabyte is equal to how many megabytes ?
+32 MB
+1012 MB
+64 MB
+1024 MB
+1024 MB
+Which technology do third generation computers use ?
+Integrated circuits
+Transistors
+Microprocessors
+Vacuum tubes
+Integrated circuits
+Which function key is used for opening help ?
+F4
+F3
+F1
+F2
+F1
+Which of the following is a lever that can be moved in several directions to control the movement of an image on a computer monitor or similar display screen ?
+MIDI Devices
+Optical Mark Reader
+Joystick
+Visual Display Unit
+Joystick
+Which of the following is a type of memory and is similar to RAM? It is used by computers to move data between the RAM and the CPU ?
+Hypertext Link
+ROM
+Cache
+I Beam
+Cache
+Which of the following is a very high-speed semiconductor memory which can speed up the CPU ?
+Cache Memory
+Main Memory
+Secondary Memory
+Primary Memory
+Cache Memory
+Which of the following is not a softcopy devices ?
+Plotter
+Projector
+Monitor
+Speaker
+Plotter
+What does HLL stand for in computing ?
+High Low Language
+Hyper Level Language
+High Level List
+High Level Language
+High Level Language
+In Microsoft Office 2016, which shortcut key is used to open the Design tab ?
+Ctrl + A
+Shift + F3
+Alt + G
+Ctrl + K
+Alt + G
+_____ was a web browser developed by the National Centre for Supercomputing Application (NCSA) ?
+Opera
+Mosaic
+Navigator
+Safari
+Mosaic
+Which of the following is used to receive and send computer files over telephone lines ?
+Modem
+MICR device
+Floppy disk
+Light pen
+Modem
+The first barcode system was developed by: ?
+Norman Joseph Woodland
+John Mc Carthy
+John Barger
+David Bradley
+Norman Joseph Woodland
+Who among the following invented the Computer language, COBOL ?
+Grace Murray Hopper
+John McCarthy
+Guido van Rossum
+Brendan Eich
+Grace Murray Hopper
+A region of computer memory where frequently accessed data can be stored for rapid access is called: ?
+Cookie
+Plug-in
+Token
+Cache
+Cache
+A hard disk is an example of which type of data storage device ?
+Primary Storage
+Secondary Storage
+Offline Storage
+Tertiary Storage
+Secondary Storage
+In the field of computing, what does VGA stand for ?
+Visual Graphics Array
+Video Graphics Array
+Video Graphics Audio
+Visual Graphics Audio
+Video Graphics Array
+Which function key displays the Print Preview window in Microsoft Office ?
+Alt+F2
+Alt+Ctrl+F2
+Ctrl+F2
+Shift+F2
+Ctrl+F2
+Which of the following converts analogue information into digital form ?
+Optical Mark Reading
+Barcode reader
+Digitizer
+Gamepad
+Digitizer
+In the context of computers, WORM is an acronym of: ?
+Write Once, Read Many
+Wireless Operating, Read Module
+Word Optical, Recognition Malware
+Word On, RAM Memory
+Write Once, Read Many
+1 Petabyte (PB) = 1024 ______ ?
+Zettabytes
+Exabytes
+Terabytes
+Gigabytes
+Terabytes
+In which of the following countries was the first Electronic Numerical Integrator and Computer, the first programmable general purpose electronic digital computer, developed ?
+United Kingdom
+China
+Japan
+United States of America
+United States of America
+In the world of Computers, what is ‘Ubuntu’ ?
+A firewell developed by Microsoft
+Open Source Linux Operating System
+An ERP system from SAP
+Latest financial software package by Infosys
+Open Source Linux Operating System.
+Which of the following options correctly defines a firewall (in the context of computing) ?
+It is the name of a software.
+It is a hardware device.
+It is a combination of both, software and hardware devices to permit or deny network transmission based on a set of rules
+It is a combination of software and hardware-based devices to permit any and every network transmission.
+It is a combination of both, software and hardware devices to permit or deny network transmission based on a set of rules
+The F7 key is commonly used in Microsoft programs such as Microsoft Word, Outlook, etc. for: ?
+opening help
+checking spellings and grammar
+searching content in various apps
+renaming files and folders
+checking spellings and grammar
+In which year did the JavaScript Programming language come into existence ?
+2000
+1990
+1995
+1999
+1995
+Which of the following consists of an electronic writing area and a special ‘pen’ that works with it ?
+Trackball
+Plotters
+Abacus
+Graphics Tablet
+Graphics Tablet
+What is the full form of BASIC in context of the BASIC computer language ?
+Beginner’s All-purpose Symbolic Input Code
+Beginner’s All-purpose Systematic Instruction Code
+Beginner’s All-purpose Symbolic Input-output Code
+Beginner’s All-purpose Symbolic Instruction Code
+Beginner’s All-purpose Symbolic Instruction Code
+Who has developed the Automatically Programmable Tool (APT) ?
+Gary Kildall
+Douglas T Ross
+Ralph H Baer
+Jonathan Fletcher
+Douglas T Ross
+Which of the following pairs is NOT matched correctly ?
+Alt + E – Edit options in current program
+Alt + Shift + D – Insert the current date
+Ctrl + K – Cut selected text
+Ctrl + A – Select all text
+Ctrl + K – Cut selected text
+Which of the following symbols must be used before a formula in a Microsoft Excel sheet ?
+=
+&
+$
+@
+=
+In a computer, which unit is responsible for processing data and is also called the electronic brain of the computer ?
+Central Processing Unit (CPU)
+Hard Disk
+RAM
+Keyboard
+Central Processing Unit
+In the field of computing, what does VRML stand for ?
+Virtual Reality MarkUp Language
+Visual Reality MarkUp Language
+Virtual Reality Machine Language
+Visual Reality Machine Language
+Virtual Reality MarkUp Language
+Who has created LISP, the Programming Language for Artificial Intelligence ?
+Grace Hopper
+John McCarthy
+Charles Bachman
+Leslie Lamport
+John McCarthy
+A computer used at supermarkets, departmental stores and restaurant etc is called ______ terminal ?
+P-O-S
+Dumb
+Intelligent
+Smart
+P-O-S
+Which of the following refers to the fastest, biggest and most expensive computers ?
+Personal Computers
+Supercomputers
+Notebooks
+Laptops
+Supercomputers
+Portable computer, also known as laptop computer, weighing between 4 and 10 pounds is called ?
+general-purpose application
+Internet
+scanner
+notebook computer
+notebook computer
+Ctrl, shift and alt are called _________ keys ?
+adjustment
+modifier
+function
+alphanumeric
+function
+Microcomputer hardware consists of three basic categories of physical equipment __________ ?
+system unit, input/output, secondary storage
+system unit, input/output, memory
+keyboard, monitor, hard drive
+system unit, primary storage, secondary storage
+system unit, input/output, memory
+Personal computers can be connected together to form a ?
+enterprise
+supercomputer
+network
+server
+network
+The basic goal of computer process is to convert data into ?
+graphs
+files
+information
+tables
+information
+A computer system ?
+software
+peripheral devices
+hardware
+All of these
+All of these
+Super computer developed by Indian scientists ?
+Param
+Cray YMP
+Compaq Presario
+Super30l
+Param
+Which of the following are computers that can be carried around easily ?
+Supercomputers
+Laptops
+PCs
+Minicomputers
+Laptops
+A ________ is a large and expensive computer capable of simultaneously processing data for hundreds or thousands of users. ?
+tablet computer
+personal computer
+mainframe computer
+handheld computer
+mainframe computer
+When your computer stops working suddenly, it is referred to as a __________ ?
+crash
+die
+death
+penalty
+crash
+A portable, personal computer, small enough to fit on your lap, is called a __________ ?
+notebook computer
+mainframe computer
+super computer
+desktop computer
+notebook computer
+All computers must have ?
+a word processing software
+an operating system
+an attached printer
+a virus checking program
+an operating system
+Laptops are ?
+Desktop
+Computers used in chemical laboratories
+Portable, light weight and fit into briefcases
+All of the options
+Portable, light weight and fit into briefcases
+A personal computer is designed to meet the computing needs of a(n ?
+city
+company
+department
+individual
+individual
+A central computer that holds collections of data and programs for many PCs, workstations and other computers is a(n) —— ?
+laptop
+supercomputer
+minicomputer
+server
+server
+Supercomputers _______ ?
+are smaller in size and processing capability than mainframe computers
+are rarely used by researchers due to their lack of computing capacity
+contain thousands of microprocessors
+are common in majority of households
+contain thousands of microprocessors
+In latest generation computers, the instructions are executed ?
+Parallel only
+Sequentially only
+Both sequentially and parallel
+All of options
+Both sequentially and parallel
+Microprocessor was introduced in which generation of computer ?
+Second Generation
+Fourth Generation
+Both (a) and (b)
+Fourth Generation
+Fourth Generation
+A computer system that is old and perhaps not satisfactory is referred to as a(n) ?
+Ancient system
+Historical system
+Age old system
+Legacy system
+Legacy system
+Palmtop computer is also known as ?
+Personal computer
+Notebook computer
+Tablet PC
+Handled computer
+Handled computer
+Which is not a basic function of a computer ?
+Process data
+Accept and process data
+Store data
+Scan text
+Scan text
+Which is not the example of special purpose computer ?
+Automatic Aircraft Landing
+Word Processor
+Multimedia computer
+All of the options
+Word Processor
+First supercomputer developed in India is ?
+PARAM
+ARYA Bhatt
+BUDDHA
+SHIVA
+PARAM
+A ——— is an electronic device that process data, converting it into information ?
+computer
+processor
+case
+stylus
+computer
+The first computer which provides storage is ?
+EDSAC
+EDBAC
+MARK-I
+ACE
+MARK-I
+Which of the following is the fastest type of computer ?
+Laptop
+Notebook
+Personal computer
+Supercomputer
+Supercomputer
+A desktop computer is also known as a ?
+Palm Pilot
+PC
+laptop
+mainframe
+PC
+The basic goal of computer process is to convert data into __________ ?
+information
+tables
+files
+graphs
+information
+__________ are specially designed computer chips that reside inside other devices, such as your car or your electronic thermostat ?
+Server
+Embedded computers
+Robotic computers
+Main frames
+Embedded computers
+Computers excel at ?
+performing the same action(s) over and over the same way.
+keeping track of large numbers of small details.
+providing creative solutions to problems.
+All of these
+All of these
+The basic goal of a computer process is to convert data into ?
+graphs
+tables
+files
+information
+information
+General purpose computer are used for ?
+Accounting
+Creating a small database
+Performs calculation
+All of the options
+All of the options
+The benefit of using computers is that ________ ?
+Computers are very fast and can store huge amounts of data
+Computers provide accurate output even when input is incorrect
+Computers are designed to be inflexible
+All of these
+Computers are very fast and can store huge amounts of data
+Which of the following is NOT associated with Computers ?
+Bit
+Binary
+Pencil
+Mouse
+Pencil
+Which of the following are computers that can be carried around easily ?
+Laptops
+Supercomputers
+PCs
+Minicomputers
+Laptops
+The benefit of using computers is that ?
+Computers are very fast and can store huge amounts of correct.
+Computers provide accurate output even when input is incorrect
+Computers are designed to be inflexible
+All of the options
+Computers are very fast and can store huge amounts of correct.
+The first computers were programmed using ?
+assembly language
+machine language
+spaghetti code
+source code
+machine language
+Choose the odd one out ?
+Microcomputer
+Minicomputer
+Supercomputer
+Notebook computer
+Notebook computer
+Computers gather data, which means they allow users to __________ data ?
+present
+store
+output
+input
+input
+A desktop computer is also known as _________ ?
+Palm Pilot
+PC
+laptop
+mainframe
+PC
+What is an embedded system ?
+A program that comes wrapped in a box.
+A program that is permanent part of a computer
+A computer that is part of a larger computer
+A computer and software system that controls a machine or appliance
+A computer and software system that controls a machine or appliance
+Analog computer works on the supply of ?
+continuous electrical pulses
+Electrical pulses but not continuous
+Magnetic strength
+Physical strength
+continuous electrical pulses
+Which of the following is not the major function of a computer ?
+Processing data into information
+Storing data or information
+Gathering data
+None of these
+None of these
+Computers manipulate data in many ways, and this manipulation is called ?
+upgrading
+processing
+batching
+utilising
+processing
+Compatibility in regard to computers refers to ?
+the software doing the right job for the user
+it being versatile enough to handle the job
+the software being able to run on the computer
+software running with other previously installed software
+software running with other previously installed software
+Every computer has a(n) __________; many also have __________ ?
+operating system; a client system
+operating system; instruction sets
+application programs; an operating system
+operating system; application programs
+operating system; application programs
+The computer’s capability of distinguishing spoken words is called ?
+voice analysis
+speech acknowledgment
+voice recognition
+speech interpretation
+voice recognition
+Which of the following refers to the fastest, biggest and most, expensive computers ?
+Notebooks
+Personal Computers
+Laptops
+Supercomputers
+Supercomputers
+A __________ is a small hand-held computer that helps you surf the Web and perform simple tasks ?
+desktop computer
+mobile phone
+notebook computer
+PDA
+PDA
+________ is not a microcomputer ?
+Desktop computer
+Tablet PC
+Handled computer
+Mainframe computer
+Mainframe computer
+Computers that are portable and convenient for users who travel are known as ?
+supercomputers
+planners
+minicomputers
+laptops
+laptops
+A __________ computer is a large and expensive computer capable of simultaneously processing data for hundreds or thousands of users ?
+server
+mainframe
+desktop
+tablet
+mainframe
+What is the full form of computer ?
+Common Operating Machine Purposely Used for Technological and Educational Research
+Central Operating Machine Purposely Used for Technological and Educational Research
+Computing Operating Machine Purposely Used for Technological and Educational Research
+None of the options
+Common Operating Machine Purposely Used for Technological and Educational Research
